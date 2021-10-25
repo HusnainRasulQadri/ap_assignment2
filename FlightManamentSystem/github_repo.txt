@@ -1,0 +1,5 @@
+HTTP:https://github.com/HusnainRasulQadri/ap_assignment2.git
+
+
+I have made multiple classes to perform different tasks using OOP concepts. I have also made used multiple exceptions and also made some.
+Inputs can be seen from files too.
